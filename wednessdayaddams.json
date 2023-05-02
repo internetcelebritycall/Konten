@@ -1,0 +1,57 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "cc36a907df0905f8",
+      "main_ads_intertitial":"8e030283b8fa98c4",
+      "main_ads_natives":"ecf5176922af07d4",
+      "main_ads_rewards":"cc8ff7b97091c3fa",
+      "backup_ads_natives":"a15d7925f336f7ff",
+      "backup_ads_banner":"189e63cebd383dd9",
+      "backup_ads_intertitial":"39612949a90791c8",
+      "backup_ads_rewards":"34997b46a331709b",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"234342234",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+  
+  "More":
+  [
+    
+  ],
+  "Item":
+  [
+      {
+      "id":1,
+      "name":"WednesdayAddams❤",
+      "image_url":"https://raw.githubusercontent.com/internetcelebritycall/video/06b14a1345ef976e812b3187f89d75f10a8aaf6b/29.WednesdayAddams/1.png",
+      "video_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/1.mkv?raw=true",
+      "voice_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/1.MP3?raw=true"
+    },{
+      "id":1,
+      "name":"WednesdayAddams❤",
+      "image_url":"https://raw.githubusercontent.com/internetcelebritycall/video/06b14a1345ef976e812b3187f89d75f10a8aaf6b/29.WednesdayAddams/2.png",
+      "video_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/2.mkv?raw=true",
+      "voice_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/1.MP3?raw=true"
+    },{
+      "id":1,
+      "name":"WednesdayAddams❤",
+      "image_url":"https://raw.githubusercontent.com/internetcelebritycall/video/06b14a1345ef976e812b3187f89d75f10a8aaf6b/29.WednesdayAddams/3.png",
+      "video_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/3.mkv?raw=true",
+      "voice_url":"https://github.com/internetcelebritycall/video/blob/main/29.WednesdayAddams/1.MP3?raw=true"
+    }
+  ]  
+}
